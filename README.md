@@ -23,6 +23,7 @@ type **w** and it will open a new tab to show you the app
 to run this on mobile you would have to install the **expo** app on app store or play store and then scan the qr code on the terimanl  
 *for simulator*  
 type **i** to run it on a simulator  
+
 Note: make sure you use the same firebase credentials you used in the [citizen connect](https://github.com/abhishek1501kholiya/Citizen) so they share the same database.  
 
 Thank you for taking the time to check out this repo  
