@@ -11,12 +11,14 @@ Open the path to the project in the terminal and run the following command -
 ```  
 npm install  
 ```  
-this command will install all the dependencies and packages required to run the app  
+this command will install all the dependencies and packages required to run the app    
+  
 Step 2:  
 ```
 expo start   
 ```
 this command will start the development server and after the development server has started you can test it on the web, mobile or simulator  
+  
 *for web*  
 type **w** and it will open a new tab to show you the app  
 *for mobile*
