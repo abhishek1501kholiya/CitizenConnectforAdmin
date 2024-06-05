@@ -6,6 +6,7 @@ This version is for moderating the citizen connect app to make sure people are n
 Just like the main app I have used react native with firebase in the backend.    
 # 📲 Usage  
 To use this app you can clone the repository and run the following commands -  
+  
 Step 1:  
 Open the path to the project in the terminal and run the following command - 
 ```  
