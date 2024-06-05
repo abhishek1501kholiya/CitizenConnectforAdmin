@@ -21,7 +21,7 @@ this command will start the development server and after the development server 
   
 *for web*  
 type **w** and it will open a new tab to show you the app  
-*for mobile*
+*for mobile*  
 to run this on mobile you would have to install the **expo** app on app store or play store and then scan the qr code on the terimanl  
 *for simulator*  
 type **i** to run it on a simulator  
